@@ -1,0 +1,57 @@
+body{
+	background: #444;
+	font:14px Trebuchet MS;
+}
+
+.wrapper{
+	background: #cc5;
+	width:1000px;
+	margin: 0 auto;
+		
+} 
+
+.header{
+	background: #ca5;
+	width:80%;
+	height: 100px;
+    margin: 0 auto;
+}
+
+.content{
+	
+	width:100%;
+    padding: 20px;
+}
+
+.article{
+    
+    width:100%;
+     margin-bottom: 15px;
+}
+.article:hover{
+    background: #cec;
+    width:100%;
+    
+}
+
+.article img{
+    float:left;
+    margin-right: 20px;
+}
+
+.article p{
+    text-indent: 15px;
+    padding-right: 10px;
+}
+
+
+.data{
+    margin-left: 90%;
+}
+
+
+.footer{
+	background: #000;
+	width:100%;
+	height: 20px;
+}
