@@ -2,7 +2,6 @@
     $db = mysql_connect("localhost","root",""); 
                  mysql_select_db("blog_text");
  
-
     $db = mysql_connect("localhost","root",""); 
                 mysql_select_db("baza",$db);
 
